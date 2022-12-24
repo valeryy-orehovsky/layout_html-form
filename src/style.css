@@ -1,1 +1,10 @@
 /* styles go here */
+
+.groups {
+  margin-bottom: 20px;
+}
+
+.inputs {
+  display: block;
+  margin-bottom: 10px;
+}
